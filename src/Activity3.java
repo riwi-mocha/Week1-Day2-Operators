@@ -13,5 +13,7 @@ public class Activity3 {
             System.out.println(false);
         }
 
+        scanner.close();
+
     }
 }
